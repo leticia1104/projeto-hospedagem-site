@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+span {
+    color: #2f86d6;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    margin-left: 235px;  
+}
+
+.secao-topo {
+    padding: 55px 0;
+    width: 100%;
+    background-color: #2f86d6;
+    color: #fff;
+}
+
+.secao-topo h1 {
+    margin-left: 330px;
+    margin-top: -100px;
+    font-size: 45px;
+    color: #233032;
+}
+
+.secao-topo p {
+    margin-left: 330px;
+    margin-top: -40px;
+    font-size: 24px;
+}
+
+.secao-topo ul {
+    display: flex;
+    list-style: none;
+    margin-left: 1260px;
+    margin-top: -80px;
+    font-weight: bold;
+}
+
+.secao-topo a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+
+.secao-topo li {
+    margin-right: 20px;
+}
+
+.secao-precos {
+    text-align: center;
+    padding: 100px 0;
+    width: 100%;
+}
+
+.borda {
+    border-collapse: collapse;
+    margin-left: 11%;
+}
+
+.borda th {
+    border: 1px solid #ebebeb;
+    text-align: center;
+    height: 10vh;
+    line-height: 20px;
+}
+
+.borda td {
+    border: 1px solid #ebebeb;
+    text-align: center;
+    width: 15vw;
+    height: 5vh;
+    line-height: 20px;
+    font-weight: 600;
+}
+
+.celula1 {
+    color: #a89f9f;
+    font-size: 15px;
+    margin-top: -10px;
+}
+
+.celula2 {
+    font-size: 30px;
+    margin-bottom: -10px;
+    margin-top: 10px;
+}
+
+.cor {
+    background-color: #ebebeb;
+    border: 2px solid #fff !important;
+}
+
+.borda td.cor {
+    text-align: left;
+    padding-left: 15px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.secao-precos .celula-vazia {
+    border: none; 
+}
+
+.marcador {
+    background-color: #2f86d6; 
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-left: 130px;    
+}
+
+.secao-rodape {
+    width: 100%;
+    padding: 100px 0;
+    background-color: #2f86d6;
+}
+
+.logo-rodape {
+    height: 80px;
+    width: 80px;
+    margin-left: 735px;
+}
+
+.secao-rodape h1 {
+    margin-left: 840px;
+    margin-top: -100px;
+    font-size: 45px;
+}
+
+.info {
+    text-align: center;
+    font-weight: bold;
+    transform: translateY(150%);
+    color: #fff;
+}
+
+.finalidade-empresa {
+    margin-left: 840px;
+    margin-top: -35px;
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.desenvolvimento {
+    padding: 15px 0;
+    background-color: #fff;
+    text-align: center;
+    font-weight: bold;
+}

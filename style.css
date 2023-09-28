@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+span {
+    color: #2f86d6;
+    font-weight: bold;
+}
+
+.logo {
+    height: 80px;
+    width: 80px;
+    margin-left: 235px;  
+}
+
+.secao-topo {
+    padding: 55px 0;
+    width: 100%;
+}
+
+.secao-topo h1 {
+    margin-left: 330px;
+    margin-top: -100px;
+    font-size: 45px;
+}
+
+.secao-topo p {
+    margin-left: 330px;
+    margin-top: -40px;
+    font-size: 24px;
+}
+
+.secao-topo ul {
+    display: flex;
+    list-style: none;
+    margin-left: 1165px;
+    margin-top: -80px;
+    font-weight: bold;
+}
+
+.secao-topo a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #233032;
+}
+
+.secao-topo li {
+    margin-right: 20px;
+}
+
+.secao-banner {
+    width: 100%;
+    background-color: #2f86d6;
+    padding: 22px 0;
+}
+
+.secao-banner h2 {
+    width: 400px;
+}
+
+.secao-banner p {
+    width: 420px;
+}
+
+.texto-banner {
+    width: 470px;
+    margin-left: 250px;
+    transform: translateY(220px);
+    color: #fff;
+}
+
+.banner {
+    margin-left: 1150px;
+    transform: translateY(-120px);
+}
+
+.anuncio1 {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #233032;
+    color: #fff;
+}
+
+.anuncio1 h2 {
+    margin-left: 250px;
+    transform: translateY(40px);
+}
+
+.anuncio1 p {
+    margin-left: 250px;
+    transform: translateY(30px);
+}
+
+.anuncio1 a {
+    margin-left: 1440px;
+    padding: 20px 20px 20px 40px;
+    background-color: #2f86d6;
+    border: 1px solid #2f86d6;
+    border-radius: 5px;
+    transform: translateY(-50px);
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+
+.anuncio1 img {
+    position: absolute;
+    top: 50%; 
+    left: 15px;
+    transform: translateY(-50%);
+}
+
+.secao-informacoes {
+    margin-left: 310px;
+    padding: 100px 0;
+}
+
+.informacao1, .informacao2, .informacao3 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.icone-engrenagens {
+    height: 190px; 
+    margin-left: 30px;
+}
+
+.secao-informacoes p {
+    width: 350px;
+}
+
+.subtitulo {
+    width: 850px;
+    text-align: center;
+    margin-left: 250px;
+    transform: translateY(-60%);
+    font-size: 30px;
+}
+
+.icone-cloud {
+    height: 180px;
+    margin-top: -1000px;
+}
+
+.icone-suporte {
+    height: 165px; 
+}
+
+.borda {
+    border-collapse: collapse;
+    box-shadow: 0px 2px 30px 10px rgba(47, 134, 214, 1);
+    border: 1px solid #fff;
+    margin-left: 18%;
+}
+
+.borda th {
+    border: 1px solid #dadada;
+    text-align: center;
+    width: 10vw;
+    height: 10vh;
+    line-height: 20px;
+}
+
+.borda td {
+    border: 1px solid #dadada;
+    text-align: center;
+    width: 15vw;
+    height: 3vh;
+    line-height: 50px;
+    border-spacing: 0 25px; 
+}
+
+.espacamento {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.secao-planos {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.borda img {
+    height: 150px;
+}
+
+.secao-planos h2 {
+    margin-bottom: 60px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.borda th,
+.borda td { 
+    min-width: 300px; 
+}
+
+.borda p {
+    color: #a89f9f;
+    max-width: 190px;
+    margin-left: 55px;
+}
+
+.cor {
+    background-color: #e6e6e6;
+}
+
+.anuncio2 {
+    width: 100%;
+    padding: 10px 0;
+    background-color: #2f86d6;
+    color: #eeeeee; 
+}
+
+.anuncio2 h2 {
+    margin-left: 250px;
+    transform: translateY(35px);
+    width: 550px;
+}
+
+.anuncio2 a {
+    margin-left: 1440px;
+    padding: 20px 20px 20px 40px;
+    background-color: #233032;
+    border: 1px solid #233032;
+    border-radius: 5px;
+    transform: translateY(-50px);
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+
+.anuncio2 img {
+    position: absolute;
+    top: 50%; 
+    left: 15px;
+    transform: translateY(-50%);
+}
+
+.secao-rodape {
+    width: 100%;
+    padding: 100px 0;
+}
+
+.logo-rodape {
+    height: 80px;
+    width: 80px;
+    margin-left: 735px;
+}
+
+.secao-rodape h1 {
+    margin-left: 840px;
+    margin-top: -100px;
+    font-size: 45px;
+}
+
+.finalidade-empresa {
+    margin-left: 840px;
+    margin-top: -35px;
+    font-size: 24px;
+}
+
+.contatos {
+    text-align: center;
+    font-weight: bold;
+    transform: translateY(30%);
+}
+
+.desenvolvimento {
+    text-align: center;
+    transform: translateY(400%);
+    font-weight: bold;
+}
