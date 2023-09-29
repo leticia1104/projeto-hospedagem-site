@@ -281,7 +281,7 @@ span {
 
 @media (max-width: 768px) {
     .secao-topo p {
-        margin-left: 150px;
+        margin-left: 160px;
         white-space: nowrap;
     }
 
@@ -290,7 +290,7 @@ span {
     }
 
     .secao-topo h1 {
-        margin-left: 150px;
+        margin-left: 160px;
     }
 
     .secao-topo ul {
