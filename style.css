@@ -278,3 +278,49 @@ span {
     transform: translateY(400%);
     font-weight: bold;
 }
+
+@media (max-width: 768px) {
+    .secao-topo p {
+        margin-left: 170px;
+        white-space: nowrap;
+    }
+
+    .logo {
+        margin-left: 20%;  
+    }
+
+    .secao-topo h1 {
+        margin-left: 170px;
+    }
+
+    .secao-topo ul {
+        margin-left: 1000px;
+    }
+
+    .secao-banner {
+        width: 100%;
+        background-color: #2f86d6;
+        padding: 10px 100%;
+    }
+        
+    .secao-banner h2 { 
+        font-size: 24px; 
+        margin-bottom: 10px; 
+    }
+    
+    .secao-banner p { 
+        font-size: 18px; 
+        margin-bottom: 20px; 
+    }
+    
+    .texto-banner { 
+        margin-left: 0; 
+        transform: translateY(0); 
+    }
+    
+    .banner {
+        margin-left: 0; 
+        transform: translateY(0); 
+    }
+}
+    
