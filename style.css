@@ -278,22 +278,3 @@ span {
     transform: translateY(400%);
     font-weight: bold;
 }
-
-@media (max-width: 720px) {
-    .secao-topo p {
-        margin-left: 130px;
-        white-space: nowrap;
-    }
-
-    .logo {
-        margin-left: 12%;  
-    }
-
-    .secao-topo h1 {
-        margin-left: 130px;
-    }
-
-    .secao-topo ul {
-        margin-left: 150%;
-    }
-}
