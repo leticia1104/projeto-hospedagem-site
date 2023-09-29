@@ -295,6 +295,9 @@ span {
 
     .secao-topo ul {
         margin-left: 1000px;
+    }
+
+    .secao-topo a {
         font-size: 30px;
     }
 
