@@ -281,26 +281,27 @@ span {
 
 @media (max-width: 768px) {
     .secao-topo p {
-        margin-left: 130px;
+        margin-left: 150px;
         white-space: nowrap;
     }
 
     .logo {
-        margin-left: 12%;  
+        margin-left: 20%;  
     }
 
     .secao-topo h1 {
-        margin-left: 130px;
+        margin-left: 150px;
     }
 
     .secao-topo ul {
-        margin-left: 490px;
+        margin-left: 520px;
+        font-size: 20px;
     }
 
     .secao-banner {
         width: 100%;
         background-color: #2f86d6;
-        padding: 0 110%;
+        padding: 0 130%;
     }
         
     .secao-banner h2 { 
