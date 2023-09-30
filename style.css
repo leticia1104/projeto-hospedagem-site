@@ -281,24 +281,22 @@ span {
 
 @media screen and (max-width: 480px) {
     .logo {
-        margin-left: 260px;
+        margin-left: 240px;
     }
 
     .secao-topo h1, .secao-topo p {
         
         white-space: nowrap;
-        margin-left: 350px;
+        margin-left: 330px;
         
     }
 
     .secao-topo ul {
-        margin-top: 50px;
-        margin-left: 210px;
-        margin-bottom: -10px;
+        margin-left: 280px;
     }
 
     .secao-banner {
-        padding: 0 100%;
+        padding: 0 110%;
     }
 
     .secao-banner h2, .secao-banner p, .texto-banner {
