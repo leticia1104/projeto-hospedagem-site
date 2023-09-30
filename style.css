@@ -279,7 +279,7 @@ span {
     font-weight: bold;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 780px) {
     .logo {
         margin-left: 200px;
     }
@@ -292,7 +292,7 @@ span {
     }
 
     .secao-topo ul {
-        margin-left: 250px;
+        margin-left: 600px;
     }
 
     .secao-banner {
@@ -300,12 +300,12 @@ span {
     }
 
     .secao-banner h2, .secao-banner p, .texto-banner {
-        width: auto;
-        margin-left: 20px;
+        width: 400px;
+        margin-left: -350px;
     }
 
     .banner {
-        margin-left: 20px;
+        margin-left: -200px;
     }
 
     .anuncio1 h2, .anuncio1 p, .anuncio1 a, .anuncio1 img {
